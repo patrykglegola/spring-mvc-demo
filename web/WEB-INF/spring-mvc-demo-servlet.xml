@@ -28,7 +28,7 @@
 	</bean>
 
 	<util:properties id="countryOptions" location="classpath:../countries.properties" />
-	<util:properties id="languageOptions" location="classpath:../languages.properties" />
+	<util:properties id="valuesLists" location="classpath:../valuesLists.properties" />
 </beans>
 
 
